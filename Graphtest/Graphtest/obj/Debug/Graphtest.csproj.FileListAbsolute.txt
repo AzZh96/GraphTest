@@ -1,0 +1,14 @@
+O:\Algo and Data Struc\week 5\Graphtest\Graphtest\bin\Debug\Graphtest.exe.config
+O:\Algo and Data Struc\week 5\Graphtest\Graphtest\bin\Debug\Graphtest.exe
+O:\Algo and Data Struc\week 5\Graphtest\Graphtest\bin\Debug\Graphtest.pdb
+O:\Algo and Data Struc\week 5\Graphtest\Graphtest\obj\Debug\Graphtest.csprojAssemblyReference.cache
+O:\Algo and Data Struc\week 5\Graphtest\Graphtest\obj\Debug\Graphtest.csproj.CoreCompileInputs.cache
+O:\Algo and Data Struc\week 5\Graphtest\Graphtest\obj\Debug\Graphtest.exe
+O:\Algo and Data Struc\week 5\Graphtest\Graphtest\obj\Debug\Graphtest.pdb
+C:\Users\AzZ\OneDrive - MMU\Algo and Data Struc\week 5\Graphtest\Graphtest\bin\Debug\Graphtest.exe.config
+C:\Users\AzZ\OneDrive - MMU\Algo and Data Struc\week 5\Graphtest\Graphtest\bin\Debug\Graphtest.exe
+C:\Users\AzZ\OneDrive - MMU\Algo and Data Struc\week 5\Graphtest\Graphtest\bin\Debug\Graphtest.pdb
+C:\Users\AzZ\OneDrive - MMU\Algo and Data Struc\week 5\Graphtest\Graphtest\obj\Debug\Graphtest.csproj.AssemblyReference.cache
+C:\Users\AzZ\OneDrive - MMU\Algo and Data Struc\week 5\Graphtest\Graphtest\obj\Debug\Graphtest.csproj.CoreCompileInputs.cache
+C:\Users\AzZ\OneDrive - MMU\Algo and Data Struc\week 5\Graphtest\Graphtest\obj\Debug\Graphtest.exe
+C:\Users\AzZ\OneDrive - MMU\Algo and Data Struc\week 5\Graphtest\Graphtest\obj\Debug\Graphtest.pdb
